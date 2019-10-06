@@ -1,4 +1,4 @@
-# [Gatsby with Ghost API Server at Local and Netlify Continuous Deployment}(https://ryuker-liu-ghost.netlify.com/)
+# [Gatsby with Ghost API Server at Local and Netlify Continuous Deployment](https://ryuker-liu-ghost.netlify.com/)
 
 Web Site: https://ryuker-liu-ghost.netlify.com/
 
