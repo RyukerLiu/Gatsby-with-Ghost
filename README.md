@@ -1,3 +1,16 @@
+# [Gatsby with Ghost API Server at Local and Netlify Continuous Deployment}(https://ryuker-liu-ghost.netlify.com/)
+
+Web Site: https://ryuker-liu-ghost.netlify.com/
+
+
+Reference: https://josebrowne.com/tutorial-static-blog-using-headless-ghost-2-0-gatsby-netlify/
+
+## Web Preview in Dev mode
+
+`yarn dev`
+
+
+
 # Gatsby Starter Ghost
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
